@@ -1,1 +1,2 @@
-python base.py
+[start]
+  command = "python base.py"
